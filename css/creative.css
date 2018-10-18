@@ -323,6 +323,17 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 
-.contact continer {
+.contact container {
   background-color: aqua;
+}
+
+#contact {
+  display: flex;
+}
+
+#resume {
+  padding-top: 20 px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  
 }
